@@ -14,7 +14,7 @@ This workbook provides the practical tools and templates referenced throughout B
 
 ## Current Version
 
-- [B1_Companion_Workbook.xlsx](B1_Companion_Workbook.xlsx)
+- [Download B1_Companion_Workbook.xlsx](https://github.com/thenorwoodfiles/Norwood-Resources/raw/main/Book1/B1_Companion_Workbook.xlsx)
 
 ## Author
 
