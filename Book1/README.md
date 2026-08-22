@@ -5,8 +5,8 @@
 This repository contains the official companion workbook for:
 
 **The Norwood Files**  
-**Book One**  
-**The Row That Wasn’t There**
+**Book One - The Row That Wasn’t There**
+
 
 ## Purpose
 
