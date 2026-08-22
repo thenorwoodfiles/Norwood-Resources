@@ -1,6 +1,21 @@
-# Book 1 Resources
+# The Norwood Files — Book One
 
-This folder contains the official companion workbook for Book 1 of **The Norwood Files**.
+## Official Companion Workbook
 
-Current version:
-- B1_Companion_Workbook.xlsx
+This folder contains the official companion workbook for:
+
+**The Norwood Files**  
+**Book One**  
+**The Row That Wasn’t There**
+
+### Current Version
+
+B1_Companion_Workbook.xlsx
+
+### Author
+
+Dan Bleigh
+
+### Updates
+
+The latest official version of this workbook is maintained in this repository.
