@@ -2,20 +2,24 @@
 
 ## Official Companion Workbook
 
-This folder contains the official companion workbook for:
+This repository contains the official companion workbook for:
 
 **The Norwood Files**  
 **Book One**  
 **The Row That Wasn’t There**
 
-### Current Version
+## Purpose
 
-B1_Companion_Workbook.xlsx
+This workbook provides the practical tools and templates referenced throughout Book One.
 
-### Author
+## Current Version
+
+- [B1_Companion_Workbook.xlsx](B1_Companion_Workbook.xlsx)
+
+## Author
 
 Dan Bleigh
 
-### Updates
+## Updates
 
-The latest official version of this workbook is maintained in this repository.
+The latest official version of the B1 Companion Workbook is maintained exclusively in this repository.
