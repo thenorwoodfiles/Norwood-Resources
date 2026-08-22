@@ -13,6 +13,7 @@ This repository contains the official companion workbook for:
 This workbook provides the practical tools and templates referenced throughout Book One.
 
 ## Current Version
+
 Version 1.0
 
 - [Download B1_Companion_Workbook.xlsx](https://github.com/thenorwoodfiles/Norwood-Resources/raw/main/Book1/B1_Companion_Workbook.xlsx)
