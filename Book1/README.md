@@ -24,4 +24,4 @@ Dan Bleigh
 
 ## Updates
 
-The latest official version of the B1 Companion Workbook is maintained exclusively in this repository as the single source of truth.
+The latest official version of the B1 Companion Workbook is maintained exclusively in this repository. This repository serves as the official source for future updates.
