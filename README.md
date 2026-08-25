@@ -2,7 +2,7 @@
 
 ## Official Companion Resources
 
-This repository contains the official companion workbooks supporting:
+This repository contains the official companion workbooks supporting **The Norwood Files**.
 
 **The Norwood Files**  
 *A Novel About Risk, Audit and Root Cause in a Factory That Stopped Pretending*
@@ -17,7 +17,7 @@ They are designed to help readers apply the methods presented in real operationa
 
 The official companion workbooks are maintained in:
 
-[Companion-Workbooks](./Companion-Workbooks)
+[Companion-Workbooks](https://github.com/thenorwoodfiles/Norwood-Resources/blob/main/Companion-Workbooks)
 
 Current resources include:
 
