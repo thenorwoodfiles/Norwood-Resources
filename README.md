@@ -36,3 +36,5 @@ Dan Bleigh
 ## Updates
 
 The latest official versions of all companion workbooks are maintained exclusively in this repository.
+
+This repository is the only official source for the companion workbooks referenced in The Norwood Files.
