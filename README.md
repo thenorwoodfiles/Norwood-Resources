@@ -26,10 +26,10 @@ Current resources include:
 - Candidate Register Workbook
 - Knowledge Inventory Workbook
 
-## Version
 
-Current release: Version 1.0
+## Release
 
+Official companion workbooks for the first omnibus edition of The Norwood Files.
 ## Author
 
 Dan Bleigh
