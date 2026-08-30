@@ -25,10 +25,7 @@ Standard `.xlsx` — Microsoft Excel 2013 or later, LibreOffice Calc, or any cur
 
 ## Version
 
-**Release
-
-Issued 29 August 2026.
-Matches the first omnibus edition of The Norwood Files.
+**v2.0 · issued 29 August 2026.** Matches the omnibus first edition of *The Norwood Files*. Earlier v1.0 files matched the four-volume pre-release and are superseded.
 
 ## License
 
