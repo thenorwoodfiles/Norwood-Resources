@@ -30,3 +30,9 @@ Standard `.xlsx` — Microsoft Excel 2013 or later, LibreOffice Calc, or any cur
 ## License
 
 Supplied free of charge with the book. You may use, adapt and reproduce these files inside your own organization for your own quality system. Resale or redistribution outside your organization is not permitted. The full license terms are on the LICENCE sheet of each file.
+
+# Norwood-Resources
+
+Official companion workbooks and resources for *The Norwood Files*.
+
+🌐 Website: [Silent Expiry](https://silent-expiry.pages.dev/)
