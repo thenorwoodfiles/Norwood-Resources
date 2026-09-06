@@ -36,3 +36,7 @@ Supplied free of charge with the book. You may use, adapt and reproduce these fi
 Official companion workbooks and resources for *The Norwood Files*.
 
 🌐 Website: [Silent Expiry](https://silent-expiry.pages.dev/)
+
+The companions are free tools for applying the concepts. The book, The Norwood Files, is the full fictional case study that reveals the Silent Expiry phenomenon and the investigation behind it.
+
+Book: https://silent-expiry.pages.dev/the-norwood-files
